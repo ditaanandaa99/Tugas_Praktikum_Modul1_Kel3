@@ -19,7 +19,7 @@ function checkOnKeyUp(inputDTO){
       console.log('Terdapat data: ', hasil);
     } 
     else{
-      console.log("tidak ada")
+      console.log("Gak ada data!")
     }
 
 }
